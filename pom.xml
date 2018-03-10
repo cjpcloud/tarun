@@ -22,19 +22,19 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-<!--
+
  <distributionManagement>
   <repository>
      <id>mahi</id>
      
-     <url>http://54.234.170.20:8888/nexus-latest/content/repositories/releases/</url>
+     <url>http://34.227.150.116:8888/nexus-latest/content/repositories/releases/</url>
   </repository>
   <snapshotRepository>
      <id>mahi</id>
      
-     <url>http://54.234.170.20:8888/nexus-latest/content/repositories/snapshots/</url>
+     <url>http://34.227.150.116:8888/nexus-latest/content/repositories/snapshots/</url>
   </snapshotRepository>
 </distributionManagement>
-  -->
+  
 
 </project>
