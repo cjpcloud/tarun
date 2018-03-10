@@ -22,7 +22,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-
+<!--
  <distributionManagement>
   <repository>
      <id>mahi</id>
@@ -35,6 +35,6 @@
      <url>http://54.234.170.20:8080/nexus-latest/content/repositories/snapshots/</url>
   </snapshotRepository>
 </distributionManagement>
-  
+  -->
 
 </project>
