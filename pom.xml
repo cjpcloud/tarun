@@ -27,12 +27,12 @@
   <repository>
      <id>mahi</id>
      
-     <url>http://54.234.170.20:8080/nexus-latest/content/repositories/releases/</url>
+     <url>http://54.234.170.20:8888/nexus-latest/content/repositories/releases/</url>
   </repository>
   <snapshotRepository>
      <id>mahi</id>
      
-     <url>http://54.234.170.20:8080/nexus-latest/content/repositories/snapshots/</url>
+     <url>http://54.234.170.20:8888/nexus-latest/content/repositories/snapshots/</url>
   </snapshotRepository>
 </distributionManagement>
   
